@@ -1,1 +1,1 @@
-##show all kinds of AI demo
+show all kinds of AI demo
